@@ -1,2 +1,0 @@
-# enphppro
-PHP ENPHPPRO OBFUSCATOR
